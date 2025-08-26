@@ -1,1 +1,1 @@
-https://github.com/Tsepomor/git-task
+https://github.com/Tsepomor/git-task.git
